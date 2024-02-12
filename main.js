@@ -1,5 +1,5 @@
 let color = "black";
-
+// I took yt's help but I understood the concepts 
 document.addEventListener("DOMContentLoaded", () => {
    console.log("hi");
    createBoard(16);
